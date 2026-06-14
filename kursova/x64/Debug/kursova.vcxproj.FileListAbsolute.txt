@@ -1,4 +1,0 @@
-C:\Users\ukrvo\source\repos\kursova\x64\Debug\data\buttons.txt
-C:\Users\ukrvo\source\repos\kursova\kursova\x64\Debug\kursova.exe
-C:\Users\ukrvo\source\repos\ChornobukVV\VirtualStreamDeck\kursova\x64\Debug\data\buttons.txt
-C:\Users\ukrvo\source\repos\ChornobukVV\VirtualStreamDeck\kursova\kursova\x64\Debug\kursova.exe
