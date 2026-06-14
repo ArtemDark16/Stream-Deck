@@ -1,0 +1,77 @@
+﻿SETTINGS|position|center
+SETTINGS|grid|5
+SETTINGS|theme|beige
+PAGE|Браузер та папки
+Навчання|folder|C:\Users\ukrvo\Desktop\Хлам по навчанню|C:\Users\ukrvo\Desktop\Stream Desk\kursova\x64\Debug\folderalt_103514.png
+Telegram|program|C:\Program Files\WindowsApps\TelegramMessengerLLP.TelegramDesktop_6.7.5.0_x64__t4vj0pshhgkwm\Telegram.exe|C:\Users\ukrvo\Desktop\Stream Desk\kursova\x64\Debug\telegram_logo_icon_147228.png
+GitHub|folder|https://github.com/|C:\Users\ukrvo\Documents\github_git_icon_145985.png
+GitHubMobile|website|https://github.com/souldemension/Social-Tunes-Mobile|C:\Users\ukrvo\Documents\github_git_icon_145985.png
+Gmail nure|website|https://mail.google.com/mail/u/1/#inbox|C:\Users\ukrvo\Desktop\Stream Desk\kursova\x64\Debug\Gmail_29991.png
+Gmail com|website|https://mail.google.com/mail/u/2/#inbox|C:\Users\ukrvo\Desktop\Stream Desk\kursova\x64\Debug\Gmail_29991.png
+YouTube Music|program|YouTube Music|C:\Users\ukrvo\Desktop\Stream Desk\kursova\x64\Debug\youtube music.png
+Notepad|program|notepad.exe|
+YouTube|website|https://youtube.com|C:\Users\ukrvo\Desktop\Stream Desk\kursova\x64\Debug\youtube.png
+Drive nure|website|https://drive.google.com/drive/u/1/home|C:\Users\ukrvo\Desktop\Stream Desk\kursova\x64\Debug\google_drive_new_logo_icon_159136.png
+Android Studio|program|C:\Program Files\Android\Android Studio\bin\studio64.exe|C:\Users\ukrvo\Desktop\Stream Desk\kursova\x64\Debug\youtube.png
+ChatGPT|website|https://chatgpt.com/|C:\Users\ukrvo\Desktop\Stream Desk\kursova\x64\Debug\chatgpt_logo_chatgpt_logo_square_green_gpt_ia_openai_icon_264977.png
+GEMINI|website|https://gemini.google.com/u/2/app?utm_source=app_launcher&utm_medium=owned&utm_campaign=base_all&pageId=none|C:\Users\ukrvo\Desktop\Stream Desk\kursova\x64\Debug\google_gemini.png
+DLNURE|website|https://dl.nure.ua/my/courses.php|C:\Users\ukrvo\Desktop\Stream Desk\kursova\x64\Debug\dl.png
+Visual Studio Code|program|C:\Users\ukrvo\AppData\Local\Programs\Microsoft VS Code\Code.exe|C:\Users\ukrvo\Desktop\Stream Desk\kursova\x64\Debug\microsoft_visual_studio_code_alt_macos_bigsur_icon_189951.png
+Visual Studio|program|C:\Program Files\Microsoft Visual Studio\18\Insiders\Common7\IDE\devenv.exe|C:\Users\ukrvo\Desktop\Stream Desk\kursova\x64\Debug\microsoft_visual_studio_macos_bigsur_icon_189958.png
+|none||
+|none||
+|none||
+|none||
+|none||
+|none||
+|none||
+|none||
+|none||
+|none||
+|none||
+|none||
+|none||
+|none||
+|none||
+|none||
+|none||
+|none||
+|none||
+|none||
+PAGE|Друга
+Calculator|program|calc.exe|
+Explorer|program|explorer.exe|
+Hello|text|Hello from Virtual Stream Deck|
+Select all|hotkey|ctrl+a|
+Undo|hotkey|ctrl+z|
+Find|hotkey|ctrl+f|
+None|none||
+None|none||
+Next|next_page|0|
+|none||
+|none||
+|none||
+|none||
+|none||
+|none||
+|none||
+|none||
+|none||
+|none||
+|none||
+|none||
+|none||
+|none||
+|none||
+|none||
+|none||
+|none||
+|none||
+|none||
+|none||
+|none||
+|none||
+|none||
+|none||
+|none||
+|none||
